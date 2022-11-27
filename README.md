@@ -1,2 +1,3 @@
-# BERT_for_machine_translation
-BERT for machine translation.
+# machine_translation
+
+TransformersのMarianMTを使用して，機械翻訳する．
